@@ -1,0 +1,77 @@
+{
+  "name": "Dave Lamichhane",
+  "summary": "Experienced fontend web development professional seeking fully remote opportunities.",
+  "email": "deveshl@protonmail.com",
+  "phone": "+977 980-800-7656",
+  "linkedin": "",
+  "github": "DrinkiPoo",
+  "location": "Kathmandu, Nepal",
+  "education": [
+    {
+      "institution": "Louisiana State University",
+      "location": "Baton Rouge, LA",
+      "degree": "B.S., Computer Science",
+      "date": "May 2019"
+    }
+  ],
+  "skills": [
+    "Javascript",
+    "ReactJS",
+    "Redux",
+    "Jest",
+    "Mocha",
+    "MongoDB",
+    "D3",
+    "HTML",
+    "Tailwind",
+    "Bootstrap",
+    "NodeJS",
+    "Typescript",
+    "Kotlin",
+    "CSS",
+    "NPM/Webpack",
+    "Git",
+    "Linux",
+    "Remote Work",
+    "Bash",
+    "Regex"
+  ],
+  "workHistory": [
+    {
+      "organization": "Obuntu Solutions Ltd",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Frontend Developer",
+          "fromDate": "May 2019",
+          "toDate": "Present",
+          "description": "Developed web applications using React in a team environment",
+          "highlights": [
+            "Develop web apps in React",
+            "Wrote unit tests in Jest",
+            "Implemented Web APIs",
+            "Requirements gathering",
+            "Create documentation and User Guides for applications created"
+          ],
+          "hiddenHighlights": [
+            "Developed application to track network outages to assess impact on team productivity"
+          ],
+          "environment": "ReactJS, Jest, Redux, HTML, CSS, Tailwind, Bootstrap, Git"
+        }
+      ]
+    },
+    {
+      "organization": "Louisiana State University",
+      "location": "Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "Instructor",
+          "fromDate": "Jul 2018",
+          "toDate": "May 2019",
+          "description": "Taught HTML, CSS, JavaScript, and Microsoft Office to students and faculty",
+          "environment": "Javascript, HTML, CSS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,189 +1,198 @@
 {
-    "name": "Stephen Hebert",
-    "summary": "Experienced full stack web development professional seeking fully remote opportunities in development, management & technical training.",
-    "email": "stephenjosephhebert@gmail.com",
-    "phone": "‪(337) 602-8448",
-    "linkedin": "stephenjosephhebert",
-    "github": "stephenhebert",
-    "hackerrank": "stephenhebert",
-    "location": "Lafayette, LA",
-    "education": [
+  "name": "Raj Chimmalgi",
+  "summary": "Experienced full stack web development professional seeking fully remote opportunities.",
+  "email": "chimmalgi@gmail.com",
+  "phone": "‪(778) 814-6784",
+  "linkedin": "raj-chimmalgi",
+  "github": "raj-chimmalgi",
+  "location": "Vancouver, CA",
+  "education": [
+    {
+      "institution": "Louisiana State University",
+      "location": "Baton Rouge, LA",
+      "degree": "M.S., Engineering Science",
+      "date": "May 2013"
+    },
+    {
+      "institution": "Southern University",
+      "location": "Baton Rouge, LA",
+      "degree": "B.S., Computer Science",
+      "date": "May 2010"
+    },
+    {
+      "institution": "Baton Rouge Community College",
+      "location": "Baton Rouge, LA",
+      "degree": "A.S., Business",
+      "date": "Jul 2008"
+    }
+  ],
+  "skills": [
+    "Javascript",
+    "VueJS",
+    "SQL",
+    "AJAX",
+    "HTML",
+    "Bootstrap",
+    "Agile",
+    "ASP.Net Core",
+    "C#",
+    "PHP",
+    "CSS",
+    "NPM/Webpack",
+    "AWS S3",
+    "Github",
+    "Windows",
+    "*nix",
+    "QA",
+    "Active Directory",
+    "IIS",
+    "Octopus",
+    "Veracode",
+    "Cypress",
+    "SSIS",
+    "Remote Work",
+    "DevOps",
+    "CI/CD",
+    "Recruiting",
+    "Powershell",
+    "Regex"
+  ],
+  "workHistory": [
+    {
+      "organization": "State of Louisiana",
+      "location": "Baton Rouge, LA & Remote",
+      "roles": [
         {
-            "institution": "Louisiana State University",
-            "location": "Baton Rouge, LA",
-            "degree": "B.S., Computer Science",
-            "date": "May 2006"
+          "title": "Lead Developer / Manager",
+          "fromDate": "May 2019",
+          "toDate": "Present",
+          "description": "Managing development for enterprise Agile modernization project.  Coding, testing, reviewing & deploying applications.  Providing technical guidance to project managers, product owners & business analysts. Migrating legacy database systems. Developing standards for security, auditing, CI/CD, UI/UX, performance & automated testing. Supporting statewide developer recruiting, training & mentorship. Configuring servers to meet project needs. Diagnosing & resolving network & production issues.",
+          "highlights": [
+            "Architected PBAC system to meet business & InfoSec requirements.",
+            "Led redevelopment of two public-facing reactive web applications to optimize UX, performance & accessibility."
+          ],
+          "hiddenHighlights": [
+            "Developed application to track network outages to assess impact on team productivity"
+          ]
+        },
+        {
+          "title": "Senior Developer",
+          "fromDate": "Jul 2018",
+          "toDate": "May 2019",
+          "description": "Coded, tested, reviewed, deployed, released, administrated, maintained & supported modern enterprise applications.",
+          "highlights": [
+            "Developed Javascript libraries for custom typeahead & grid UI components."
+          ],
+          "hiddenHighlights": [
+            "Developed application to track network outages to assess impact on team productivity",
+            "Developed application / interface for education technical readiness data collection and reporting to assess risk",
+            "Delivered department-wide trainings on javascript and effective communication"
+          ],
+          "environment": "Javascript, VueJS, C#, Github, Agile, HTML, CSS, JIRA, AWS, ADFS, Identity Server, IIS, SQL Server 2016, EF Core, Octopus, Cypress, Veracode, Figma, SSIS"
         }
-    ],
-    "skills": [
-        "Javascript", 
-        "VueJS", 
-        "SQL", 
-        "AJAX",
-        "HTML", 
-        "Bootstrap", 
-        "Agile", 
-        "ASP.Net Core", 
-        "C#",
-        "PHP", 
-        "CSS", 
-        "NPM/Webpack", 
-        "AWS S3", 
-        "Github",
-        "Windows", 
-        "*nix", 
-        "QA",
-        "Active Directory", 
-        "IIS", 
-        "Octopus", 
-        "Veracode",
-        "Cypress",
-        "SSIS",
-        "Remote Work",
-        "DevOps",
-        "CI/CD",
-        "Recruiting",
-        "Powershell",
-        "Regex"
-    ],
-    "workHistory": [
+      ]
+    },
+    {
+      "organization": "Louisiana State University",
+      "location": "Baton Rouge, LA",
+      "roles": [
         {
-            "organization": "State of Louisiana",
-            "location": "Baton Rouge, LA & Remote",
-            "roles": [
-                {
-                    "title": "Lead Developer / Manager",
-                    "fromDate": "May 2019",
-                    "toDate": "Present",
-                    "description": "Managing development for enterprise Agile modernization project.  Coding, testing, reviewing & deploying applications.  Providing technical guidance to project managers, product owners & business analysts. Migrating legacy database systems. Developing standards for security, auditing, CI/CD, UI/UX, performance & automated testing. Supporting statewide developer recruiting, training & mentorship. Configuring servers to meet project needs. Diagnosing & resolving network & production issues.",
-                    "highlights": [
-                        "Architected PBAC system to meet business & InfoSec requirements.",
-                        "Led redevelopment of two public-facing reactive web applications to optimize UX, performance & accessibility."
-                    ],
-                    "hiddenHighlights": [
-                        "Developed application to track network outages to assess impact on team productivity"
-                    ]
-                },
-                {
-                    "title": "Senior Developer",
-                    "fromDate": "Jul 2018",
-                    "toDate": "May 2019",
-                    "description": "Coded, tested, reviewed, deployed, released, administrated, maintained & supported modern enterprise applications.",
-                    "highlights": [
-                        "Developed Javascript libraries for custom typeahead & grid UI components."
-                    ],
-                    "hiddenHighlights": [
-                        "Developed application to track network outages to assess impact on team productivity",
-                        "Developed application / interface for education technical readiness data collection and reporting to assess risk",
-                        "Delivered department-wide trainings on javascript and effective communication"
-                    ],
-                    "environment": "Javascript, VueJS, C#, Github, Agile, HTML, CSS, JIRA, AWS, ADFS, Identity Server, IIS, SQL Server 2016, EF Core, Octopus, Cypress, Veracode, Figma, SSIS"
-                }
-            ]
-        },
-        {
-            "organization": "Louisiana State University",
-            "location": "Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "Technical Analyst",
-                    "fromDate": "Dec 2015",
-                    "toDate": "Jul 2018",
-                    "description": "Provided user, network, server & cloud service administration & technical support."
-                }
-            ]
-        },
-        {
-            "organization": "Self",
-            "location": "Seattle, WA & Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "Developer, Consultant, Technical Trainer",
-                    "fromDate": "Nov 2001",
-                    "toDate": "Dec 2015",
-                    "description": "Consulted on various web design & development projects.  Delivered individualized instruction in web development."
-                }
-            ]
-        },
-        {
-            "organization": "Sharedband International",
-            "location": "Ipswich, England, UK & Seattle, WA",
-            "roles": [
-                {
-                    "title": "Developer / Support Analyst",
-                    "fromDate": "Dec 2006",
-                    "toDate": "Apr 2008",
-                    "description": "Coded, tested, provisioned, supported & administrated proprietary network product & service.",
-                    "highlights": [
-                        "Developed web-based network configuration interface for modified routing appliance."
-                    ],
-                    "environment":"Linux, Apache, MySQL, PHP, HTML, Javascript"
-                }
-            ]
-        },
-        {
-            "organization": "Espion International",
-            "location": "Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "QA / Support Analyst",
-                    "fromDate": "Jun 2006",
-                    "toDate": "Oct 2006",
-                    "description": "Manually tested user interfaces & function of proprietary rackmount appliance & documented issues. Provisioned & shipped products.  Provided remote technical support."
-                }
-            ]
-        },
-        {
-            "organization": "Louisiana School Boards Association",
-            "location": "Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "Developer / Support Analyst",
-                    "fromDate": "Nov 2001",
-                    "toDate": "Jun 2006",
-                    "description": "Developed & maintained static website.  Provided hardware, software, peripheral, database & network support. ",
-                    "environment": "HTML, Javascript, Photoshop"
-                }
-            ]
-        },
-        {
-            "organization": "Louisiana State University",
-            "location": "Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "Technical Instructor / DBA",
-                    "fromDate": "Aug 2003",
-                    "toDate": "May 2005",
-                    "description": "Delivered group & individualized instruction on web development & office software. Maintained legacy databases & applications.",
-                    "environment": "HTML, CSS, Javascript, Photoshop, Lotus Notes"
-                }
-            ]
-        },
-        {
-            "organization": "32 Studios",
-            "location": "Brusly, LA",
-            "roles": [
-                {
-                    "title": "Developer / Co-Founder",
-                    "fromDate": "Aug 2000",
-                    "toDate": "May 2003",
-                    "description": "Designed, developed & deployed static websites for government & industry clients."
-                }
-            ]
-        },
-        {
-            "organization": "State of Louisiana",
-            "location": "Baton Rouge, LA",
-            "roles": [
-                {
-                    "title": "Support Technician",
-                    "fromDate": "May 2001",
-                    "toDate": "Nov 2001",
-                    "description": "Initialized, installed, configured, issued & supported Windows workstations.  Troubleshooted & repaired computer systems & peripherals."
-                }
-            ]
+          "title": "Technical Analyst",
+          "fromDate": "Dec 2015",
+          "toDate": "Jul 2018",
+          "description": "Provided user, network, server & cloud service administration & technical support."
         }
-
-
-    ]
+      ]
+    },
+    {
+      "organization": "Self",
+      "location": "Seattle, WA & Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "Developer, Consultant, Technical Trainer",
+          "fromDate": "Nov 2001",
+          "toDate": "Dec 2015",
+          "description": "Consulted on various web design & development projects.  Delivered individualized instruction in web development."
+        }
+      ]
+    },
+    {
+      "organization": "Sharedband International",
+      "location": "Ipswich, England, UK & Seattle, WA",
+      "roles": [
+        {
+          "title": "Developer / Support Analyst",
+          "fromDate": "Dec 2006",
+          "toDate": "Apr 2008",
+          "description": "Coded, tested, provisioned, supported & administrated proprietary network product & service.",
+          "highlights": [
+            "Developed web-based network configuration interface for modified routing appliance."
+          ],
+          "environment": "Linux, Apache, MySQL, PHP, HTML, Javascript"
+        }
+      ]
+    },
+    {
+      "organization": "Espion International",
+      "location": "Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "QA / Support Analyst",
+          "fromDate": "Jun 2006",
+          "toDate": "Oct 2006",
+          "description": "Manually tested user interfaces & function of proprietary rackmount appliance & documented issues. Provisioned & shipped products.  Provided remote technical support."
+        }
+      ]
+    },
+    {
+      "organization": "Louisiana School Boards Association",
+      "location": "Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "Developer / Support Analyst",
+          "fromDate": "Nov 2001",
+          "toDate": "Jun 2006",
+          "description": "Developed & maintained static website.  Provided hardware, software, peripheral, database & network support. ",
+          "environment": "HTML, Javascript, Photoshop"
+        }
+      ]
+    },
+    {
+      "organization": "Louisiana State University",
+      "location": "Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "Technical Instructor / DBA",
+          "fromDate": "Aug 2003",
+          "toDate": "May 2005",
+          "description": "Delivered group & individualized instruction on web development & office software. Maintained legacy databases & applications.",
+          "environment": "HTML, CSS, Javascript, Photoshop, Lotus Notes"
+        }
+      ]
+    },
+    {
+      "organization": "32 Studios",
+      "location": "Brusly, LA",
+      "roles": [
+        {
+          "title": "Developer / Co-Founder",
+          "fromDate": "Aug 2000",
+          "toDate": "May 2003",
+          "description": "Designed, developed & deployed static websites for government & industry clients."
+        }
+      ]
+    },
+    {
+      "organization": "State of Louisiana",
+      "location": "Baton Rouge, LA",
+      "roles": [
+        {
+          "title": "Support Technician",
+          "fromDate": "May 2001",
+          "toDate": "Nov 2001",
+          "description": "Initialized, installed, configured, issued & supported Windows workstations.  Troubleshooted & repaired computer systems & peripherals."
+        }
+      ]
+    }
+  ]
 }
